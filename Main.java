@@ -14,7 +14,7 @@ public class Main {
     public static boolean hit;
 
     public static void main(String[] args) {
-	    
+
 	    Boat boat = new Boat();
 	    boat.coorBoat = 6;
 
@@ -38,5 +38,12 @@ class Boat{
 
     public int coorBoat;
 
+}
 
-        }
+class Sea{
+
+}
+
+class Location{
+
+}
